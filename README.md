@@ -1,2 +1,12 @@
 # ariexcore-mcp-gateway
-ARIEXCORE production MCP gateway — registry, auth, permissions, schema validation, rate limits, audit.
+
+**Production MCP gateway** for ARIEXCORE agents.
+
+- Explicit tool allow-lists
+- Auth + rate limits
+- Schema validation
+- Audit trail compatible with evidence ledger
+
+## License
+
+Apache-2.0
